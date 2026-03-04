@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 33141
+# 规则统计: 33144
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -16128,6 +16128,7 @@ HOST-SUFFIX,jav.guru,GlobalMax
 HOST-SUFFIX,jav.la,GlobalMax
 HOST-SUFFIX,jav.land,GlobalMax
 HOST-SUFFIX,jav.place,GlobalMax
+HOST-SUFFIX,jav.sb,GlobalMax
 HOST-SUFFIX,jav.si,GlobalMax
 HOST-SUFFIX,jav.wine,GlobalMax
 HOST-SUFFIX,jav01.cc,GlobalMax
@@ -16203,6 +16204,7 @@ HOST-SUFFIX,javher.com,GlobalMax
 HOST-SUFFIX,javheroine.com,GlobalMax
 HOST-SUFFIX,javhihi.com,GlobalMax
 HOST-SUFFIX,javhip.com,GlobalMax
+HOST-SUFFIX,javhub.com,GlobalMax
 HOST-SUFFIX,javhub.me,GlobalMax
 HOST-SUFFIX,javhub.net,GlobalMax
 HOST-SUFFIX,javhuge.com,GlobalMax
@@ -16242,6 +16244,7 @@ HOST-SUFFIX,javprime.net,GlobalMax
 HOST-SUFFIX,javpub.me,GlobalMax
 HOST-SUFFIX,javpush.com,GlobalMax
 HOST-SUFFIX,javqd.com,GlobalMax
+HOST-SUFFIX,javquick.com,GlobalMax
 HOST-SUFFIX,javrank.com,GlobalMax
 HOST-SUFFIX,javrate.com,GlobalMax
 HOST-SUFFIX,javrave.club,GlobalMax

@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 33141
+# 规则统计: 33144
 
 no_resolve: true
 domain_set:
@@ -16131,6 +16131,7 @@ domain_suffix_set:
   - jav.la
   - jav.land
   - jav.place
+  - jav.sb
   - jav.si
   - jav.wine
   - jav01.cc
@@ -16206,6 +16207,7 @@ domain_suffix_set:
   - javheroine.com
   - javhihi.com
   - javhip.com
+  - javhub.com
   - javhub.me
   - javhub.net
   - javhuge.com
@@ -16245,6 +16247,7 @@ domain_suffix_set:
   - javpub.me
   - javpush.com
   - javqd.com
+  - javquick.com
   - javrank.com
   - javrate.com
   - javrave.club
