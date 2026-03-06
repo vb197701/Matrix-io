@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 33144
+# 规则统计: 33153
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -2714,6 +2714,7 @@ HOST-SUFFIX,ardenuniversity.ac.uk,GlobalMax
 HOST-SUFFIX,area120.com,GlobalMax
 HOST-SUFFIX,area51.to,GlobalMax
 HOST-SUFFIX,areca-backup.org,GlobalMax
+HOST-SUFFIX,arena.ai,GlobalMax
 HOST-SUFFIX,arena.taipei,GlobalMax
 HOST-SUFFIX,arethusa.su,GlobalMax
 HOST-SUFFIX,arewereadyyet.com,GlobalMax
@@ -2775,6 +2776,7 @@ HOST-SUFFIX,arukas.io,GlobalMax
 HOST-SUFFIX,arunachalforests.gov.in,GlobalMax
 HOST-SUFFIX,arupoc.ac.uk,GlobalMax
 HOST-SUFFIX,arvanstorage.ir,GlobalMax
+HOST-SUFFIX,arweave.org,GlobalMax
 HOST-SUFFIX,arxiv.org,GlobalMax
 HOST-SUFFIX,arzon.jp,GlobalMax
 HOST-SUFFIX,as-hp.ca,GlobalMax
@@ -8339,6 +8341,7 @@ HOST-SUFFIX,diabetes-healthnet.ac.uk,GlobalMax
 HOST-SUFFIX,diablo3.com,GlobalMax
 HOST-SUFFIX,diabloimmortal.com,GlobalMax
 HOST-SUFFIX,diabrowser.com,GlobalMax
+HOST-SUFFIX,diabrowser.engineering,GlobalMax
 HOST-SUFFIX,dialga.com,GlobalMax
 HOST-SUFFIX,dialogflow.com,GlobalMax
 HOST-SUFFIX,diamantewebcam.com,GlobalMax
@@ -8642,6 +8645,7 @@ HOST-SUFFIX,dl-iphone.com,GlobalMax
 HOST-SUFFIX,dl-laby.jp,GlobalMax
 HOST-SUFFIX,dl.ac.uk,GlobalMax
 HOST-SUFFIX,dl4d.ac.uk,GlobalMax
+HOST-SUFFIX,dlaf.jp,GlobalMax
 HOST-SUFFIX,dlap001.xyz,GlobalMax
 HOST-SUFFIX,dlap301.com,GlobalMax
 HOST-SUFFIX,dldlinks.com,GlobalMax
@@ -15115,6 +15119,7 @@ HOST-SUFFIX,ilife.eu,GlobalMax
 HOST-SUFFIX,ilife.gr,GlobalMax
 HOST-SUFFIX,ilife.wang,GlobalMax
 HOST-SUFFIX,illawarramercury.com.au,GlobalMax
+HOST-SUFFIX,illgames.jp,GlobalMax
 HOST-SUFFIX,illianacomputerrecycling.com,GlobalMax
 HOST-SUFFIX,illusion.co.jp,GlobalMax
 HOST-SUFFIX,illusion.jp,GlobalMax
@@ -16090,6 +16095,7 @@ HOST-SUFFIX,janetcollaborate.ac.uk,GlobalMax
 HOST-SUFFIX,janor6.net,GlobalMax
 HOST-SUFFIX,janwongphoto.com,GlobalMax
 HOST-SUFFIX,japan-forward.com,GlobalMax
+HOST-SUFFIX,japan-illgames.com,GlobalMax
 HOST-SUFFIX,japan-whores.com,GlobalMax
 HOST-SUFFIX,japan18tube.com,GlobalMax
 HOST-SUFFIX,japanbeast.com,GlobalMax
@@ -16325,6 +16331,7 @@ HOST-SUFFIX,jessicaturner.co.uk,GlobalMax
 HOST-SUFFIX,jessicaturner.com,GlobalMax
 HOST-SUFFIX,jetbra.in,GlobalMax
 HOST-SUFFIX,jetbrains.ai,GlobalMax
+HOST-SUFFIX,jetbrains.cloud,GlobalMax
 HOST-SUFFIX,jetbrains.com,GlobalMax
 HOST-SUFFIX,jetbrains.net,GlobalMax
 HOST-SUFFIX,jetbrains.space,GlobalMax
@@ -28736,6 +28743,7 @@ HOST-SUFFIX,tsyum.com,GlobalMax
 HOST-SUFFIX,tt-rss.org,GlobalMax
 HOST-SUFFIX,tt1069.com,GlobalMax
 HOST-SUFFIX,ttc.ac.uk,GlobalMax
+HOST-SUFFIX,ttcdn-us.com,GlobalMax
 HOST-SUFFIX,tte-lisa.ac.uk,GlobalMax
 HOST-SUFFIX,tteshop.com,GlobalMax
 HOST-SUFFIX,ttetraining.ac.uk,GlobalMax
@@ -31187,6 +31195,7 @@ HOST-SUFFIX,wisekey.com.hk,GlobalMax
 HOST-SUFFIX,wiserd.ac.uk,GlobalMax
 HOST-SUFFIX,wisevid.com,GlobalMax
 HOST-SUFFIX,wish.com,GlobalMax
+HOST-SUFFIX,wispbyte.com,GlobalMax
 HOST-SUFFIX,wistia.com,GlobalMax
 HOST-SUFFIX,wistia.net,GlobalMax
 HOST-SUFFIX,witcmi.ac.uk,GlobalMax
