@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 33165
+# 规则统计: 33176
 
 no_resolve: true
 domain_set:
@@ -434,6 +434,7 @@ domain_suffix_set:
   - 30boxes.com
   - 30plusgirls.com
   - 315lz.com
+  - 32bm.cc
   - 32red.com
   - 35s4.com
   - 360autodesk.com
@@ -2305,6 +2306,7 @@ domain_suffix_set:
   - app-dynamics.com
   - app-measurement-cn.com
   - app-measurement.net
+  - app-pay.jp
   - app-store.wang
   - app0le.com
   - app756.com
@@ -3444,6 +3446,7 @@ domain_suffix_set:
   - bag-glasses1.com
   - bahamut.com.tw
   - bahcesehir.ac.uk
+  - bai29.xyz
   - baicaonetwork.com
   - baice.ac.uk
   - baidu.jp
@@ -5777,6 +5780,7 @@ domain_suffix_set:
   - cafr.ca
   - cafre.ac.uk
   - cahr.org.tw
+  - cai21.xyz
   - caice.com
   - caijinglengyan.com
   - caime.xyz
@@ -9224,6 +9228,7 @@ domain_suffix_set:
   - dynamobuilds.com
   - dynamopackages.com
   - dynamoreach.com
+  - dynatrace.com
   - dynawebinc.com
   - dyncdn.me
   - dyndns-ip.com
@@ -10696,6 +10701,7 @@ domain_suffix_set:
   - familypies.net
   - familyporn.tv
   - familypornhd.com
+  - familysearch.org
   - familysexsimulator.com
   - familysimulator.com
   - familysimulator.io
@@ -21000,6 +21006,7 @@ domain_suffix_set:
   - nikestyles.com
   - nikeswim.com
   - niketaiwan.net
+  - niketracking.com
   - niketradeweb.com
   - niketrainer.com
   - niketrainers.com
@@ -24594,6 +24601,7 @@ domain_suffix_set:
   - rime.im
   - rimg.com.tw
   - rin.ac.uk
+  - rinvdh7.xyz
   - riot-games.com
   - riot.com
   - riot.im
@@ -25014,6 +25022,7 @@ domain_suffix_set:
   - samsunggalaxyfriends.com
   - samsunghealth.com
   - samsungiotcloud.com
+  - samsungiots.com
   - samsungknox.com
   - samsungosp.com
   - samsungqbe.com
@@ -25845,6 +25854,7 @@ domain_suffix_set:
   - shitaotv.org
   - shithd.com
   - shitjav.com
+  - shitjournal.org
   - shittytube.com
   - shixiao.org
   - shizhao.org
@@ -26234,6 +26244,7 @@ domain_suffix_set:
   - smartonesolutions.com.hk
   - smartonesolutions.hk
   - smartstream.ne.jp
+  - smartthings.com
   - smashed.xxx
   - smbc.co.jp
   - smbctb.co.jp
