@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 33186
+# 规则统计: 33191
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -28338,6 +28338,11 @@ HOST-SUFFIX,tiktokv.eu,GlobalMax
 HOST-SUFFIX,tiktokv.us,GlobalMax
 HOST-SUFFIX,tiktokw.eu,GlobalMax
 HOST-SUFFIX,tiktokw.us,GlobalMax
+HOST-SUFFIX,tilda.cc,GlobalMax
+HOST-SUFFIX,tilda.ru,GlobalMax
+HOST-SUFFIX,tilda.ws,GlobalMax
+HOST-SUFFIX,tildaapi.com,GlobalMax
+HOST-SUFFIX,tildacdn.com,GlobalMax
 HOST-SUFFIX,tilehill.ac.uk,GlobalMax
 HOST-SUFFIX,tiltbrush.com,GlobalMax
 HOST-SUFFIX,timdir.com,GlobalMax

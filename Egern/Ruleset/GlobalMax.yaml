@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 33186
+# 规则统计: 33191
 
 no_resolve: true
 domain_set:
@@ -28341,6 +28341,11 @@ domain_suffix_set:
   - tiktokv.us
   - tiktokw.eu
   - tiktokw.us
+  - tilda.cc
+  - tilda.ru
+  - tilda.ws
+  - tildaapi.com
+  - tildacdn.com
   - tilehill.ac.uk
   - tiltbrush.com
   - timdir.com
