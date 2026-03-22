@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 33191
+# 规则统计: 33199
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -3961,6 +3961,7 @@ HOST-SUFFIX,beeg.com,GlobalMax
 HOST-SUFFIX,beeg.rest,GlobalMax
 HOST-SUFFIX,beegfree.com,GlobalMax
 HOST-SUFFIX,beejp.net,GlobalMax
+HOST-SUFFIX,beeline.tv,GlobalMax
 HOST-SUFFIX,beep.ac.uk,GlobalMax
 HOST-SUFFIX,beepool.com,GlobalMax
 HOST-SUFFIX,beepool.org,GlobalMax
@@ -4067,6 +4068,7 @@ HOST-SUFFIX,bestbuytradein.com,GlobalMax
 HOST-SUFFIX,bestbuyus.com,GlobalMax
 HOST-SUFFIX,bestcamsites.net,GlobalMax
 HOST-SUFFIX,bestclouddrive.com,GlobalMax
+HOST-SUFFIX,bestdori.com,GlobalMax
 HOST-SUFFIX,besterpornos.com,GlobalMax
 HOST-SUFFIX,bestescortgirls.nl,GlobalMax
 HOST-SUFFIX,bestforchina.org,GlobalMax
@@ -6729,6 +6731,7 @@ HOST-SUFFIX,chyoa.com,GlobalMax
 HOST-SUFFIX,ci-en.jp,GlobalMax
 HOST-SUFFIX,ci-en.net,GlobalMax
 HOST-SUFFIX,cia.ac.uk,GlobalMax
+HOST-SUFFIX,cia.gov,GlobalMax
 HOST-SUFFIX,cias.ac.uk,GlobalMax
 HOST-SUFFIX,ciattackers.com,GlobalMax
 HOST-SUFFIX,cib.ac.uk,GlobalMax
@@ -10163,6 +10166,7 @@ HOST-SUFFIX,esoir.be,GlobalMax
 HOST-SUFFIX,esopworld.com,GlobalMax
 HOST-SUFFIX,esp-scotland.ac.uk,GlobalMax
 HOST-SUFFIX,esp32.com,GlobalMax
+HOST-SUFFIX,esp8266.com,GlobalMax
 HOST-SUFFIX,espa-headlines.ac.uk,GlobalMax
 HOST-SUFFIX,espa.ac.uk,GlobalMax
 HOST-SUFFIX,espadoldettol.com.ar,GlobalMax
@@ -10174,6 +10178,7 @@ HOST-SUFFIX,espncdn.com,GlobalMax
 HOST-SUFFIX,espnqa.com,GlobalMax
 HOST-SUFFIX,esports.gg,GlobalMax
 HOST-SUFFIX,esposasymaridos.com,GlobalMax
+HOST-SUFFIX,espressif.com,GlobalMax
 HOST-SUFFIX,esrc.ac.uk,GlobalMax
 HOST-SUFFIX,esrcfestival.ac.uk,GlobalMax
 HOST-SUFFIX,esrcmanchesterfest.ac.uk,GlobalMax
@@ -21742,12 +21747,14 @@ HOST-SUFFIX,ok.xxx,GlobalMax
 HOST-SUFFIX,okayfreedom.com,GlobalMax
 HOST-SUFFIX,okazudouga.tokyo,GlobalMax
 HOST-SUFFIX,okcdn.ru,GlobalMax
+HOST-SUFFIX,okcoin.com,GlobalMax
 HOST-SUFFIX,okex.com,GlobalMax
 HOST-SUFFIX,okinawabank.co.jp,GlobalMax
 HOST-SUFFIX,okk.tw,GlobalMax
 HOST-SUFFIX,okkisokuho.com,GlobalMax
 HOST-SUFFIX,okko.sport,GlobalMax
 HOST-SUFFIX,okko.tv,GlobalMax
+HOST-SUFFIX,oklink.com,GlobalMax
 HOST-SUFFIX,okpool.me,GlobalMax
 HOST-SUFFIX,okx-dns.com,GlobalMax
 HOST-SUFFIX,okx-dns1.com,GlobalMax
@@ -32908,6 +32915,7 @@ HOST-SUFFIX,zi.media,GlobalMax
 HOST-SUFFIX,zi5.me,GlobalMax
 HOST-SUFFIX,zibacity.com,GlobalMax
 HOST-SUFFIX,ziddu.com,GlobalMax
+HOST-SUFFIX,ziglang.org,GlobalMax
 HOST-SUFFIX,zigzag.kr,GlobalMax
 HOST-SUFFIX,zillionk.com,GlobalMax
 HOST-SUFFIX,zim.vn,GlobalMax
