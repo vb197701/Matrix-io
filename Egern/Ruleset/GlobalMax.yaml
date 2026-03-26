@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 33199
+# 规则统计: 33209
 
 no_resolve: true
 domain_set:
@@ -21957,6 +21957,7 @@ domain_suffix_set:
   - openlibrary.org
   - openmaps.org
   - openreality.com
+  - openrec.tv
   - openresty.org
   - openreview.net
   - openrouter.ai
@@ -22187,8 +22188,15 @@ domain_suffix_set:
   - ozeex.com
   - ozodi.org
   - ozodlik.org
+  - ozon.by
+  - ozon.com
+  - ozon.com.by
+  - ozon.com.kz
+  - ozon.kz
   - ozon.ru
+  - ozon.tm
   - ozone.ru
+  - ozonru.me
   - ozonusercontent.com
   - ozvoice.org
   - ozxw.com
@@ -24943,6 +24951,7 @@ domain_suffix_set:
   - s-nbcnews.com
   - s-rewards.hk
   - s-xoom.com
+  - s.rmimg.com
   - s.team
   - s1heng.com
   - s1s1s1.com
@@ -31727,6 +31736,7 @@ domain_suffix_set:
   - xmoviesforyou.com
   - xn--096-4g6em5t.com
   - xn--11xs86f.icu
+  - xn--1jqvh729avzfcy2d8ummib.com
   - xn--201-4g6em5t.com
   - xn--202-4g6em5t.com
   - xn--203-4g6em5t.com
