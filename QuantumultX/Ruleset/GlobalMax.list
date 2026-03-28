@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 33209
+# 规则统计: 33221
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -6718,6 +6718,7 @@ HOST-SUFFIX,chuizi.net,GlobalMax
 HOST-SUFFIX,chuls.ac.uk,GlobalMax
 HOST-SUFFIX,chuneo.xyz,GlobalMax
 HOST-SUFFIX,chunja19.net,GlobalMax
+HOST-SUFFIX,chunkbase.com,GlobalMax
 HOST-SUFFIX,chuokoron.jp,GlobalMax
 HOST-SUFFIX,chuporno.com,GlobalMax
 HOST-SUFFIX,churchill.ac.uk,GlobalMax
@@ -10014,6 +10015,7 @@ HOST-SUFFIX,equal.ac.uk,GlobalMax
 HOST-SUFFIX,equalityhigher.ac.uk,GlobalMax
 HOST-SUFFIX,equator.ac.uk,GlobalMax
 HOST-SUFFIX,equinenow.com,GlobalMax
+HOST-SUFFIX,equinox.io,GlobalMax
 HOST-SUFFIX,equistudy.ac.uk,GlobalMax
 HOST-SUFFIX,era.ac.uk,GlobalMax
 HOST-SUFFIX,erabaru.net,GlobalMax
@@ -19078,6 +19080,7 @@ HOST-SUFFIX,mindrolling.org,GlobalMax
 HOST-SUFFIX,minecraft-services.net,GlobalMax
 HOST-SUFFIX,minecraft.net,GlobalMax
 HOST-SUFFIX,minecraft.wiki,GlobalMax
+HOST-SUFFIX,minecraftforge.net,GlobalMax
 HOST-SUFFIX,minecraftservices.com,GlobalMax
 HOST-SUFFIX,minecraftshop.com,GlobalMax
 HOST-SUFFIX,mineofinfo.ac.uk,GlobalMax
@@ -20248,6 +20251,7 @@ HOST-SUFFIX,nalandawest.org,GlobalMax
 HOST-SUFFIX,naln.ac.uk,GlobalMax
 HOST-SUFFIX,nam.ac.uk,GlobalMax
 HOST-SUFFIX,name.com,GlobalMax
+HOST-SUFFIX,namemc.com,GlobalMax
 HOST-SUFFIX,namemybeats.com,GlobalMax
 HOST-SUFFIX,namethatporn.com,GlobalMax
 HOST-SUFFIX,namethatpornad.com,GlobalMax
@@ -20812,6 +20816,7 @@ HOST-SUFFIX,nginx.com,GlobalMax
 HOST-SUFFIX,nginx.org,GlobalMax
 HOST-SUFFIX,nginxconfig.io,GlobalMax
 HOST-SUFFIX,ngodupdongchung.com,GlobalMax
+HOST-SUFFIX,ngrok-agent.com,GlobalMax
 HOST-SUFFIX,ngrok-free.app,GlobalMax
 HOST-SUFFIX,ngrok-free.dev,GlobalMax
 HOST-SUFFIX,ngrok-free.pizza,GlobalMax
@@ -21999,6 +22004,7 @@ HOST-SUFFIX,opte.org,GlobalMax
 HOST-SUFFIX,optica.org,GlobalMax
 HOST-SUFFIX,opticore.com,GlobalMax
 HOST-SUFFIX,opticsforthecloud.net,GlobalMax
+HOST-SUFFIX,optifine.net,GlobalMax
 HOST-SUFFIX,optima-cdt.ac.uk,GlobalMax
 HOST-SUFFIX,optimumssl.com,GlobalMax
 HOST-SUFFIX,opus-gaming.com,GlobalMax
@@ -23909,6 +23915,7 @@ HOST-SUFFIX,qbittorrent.org,GlobalMax
 HOST-SUFFIX,qbmengmei6.mom,GlobalMax
 HOST-SUFFIX,qbsc.ac.uk,GlobalMax
 HOST-SUFFIX,qckprn.com,GlobalMax
+HOST-SUFFIX,qcomgeo2.com,GlobalMax
 HOST-SUFFIX,qctconnect.com,GlobalMax
 HOST-SUFFIX,qdiehzz7.me,GlobalMax
 HOST-SUFFIX,qdmomentum.com,GlobalMax
@@ -23981,6 +23988,7 @@ HOST-SUFFIX,quadram.ac.uk,GlobalMax
 HOST-SUFFIX,quadraminstitute.ac.uk,GlobalMax
 HOST-SUFFIX,quadrat.ac.uk,GlobalMax
 HOST-SUFFIX,qualcomm-email.com,GlobalMax
+HOST-SUFFIX,qualcomm-inc.com,GlobalMax
 HOST-SUFFIX,qualcomm.co.id,GlobalMax
 HOST-SUFFIX,qualcomm.co.in,GlobalMax
 HOST-SUFFIX,qualcomm.co.jp,GlobalMax
@@ -26707,6 +26715,7 @@ HOST-SUFFIX,spider.ac.uk,GlobalMax
 HOST-SUFFIX,spideroak.com,GlobalMax
 HOST-SUFFIX,spiderpool.com,GlobalMax
 HOST-SUFFIX,spiegel.de,GlobalMax
+HOST-SUFFIX,spigotmc.org,GlobalMax
 HOST-SUFFIX,spike.com,GlobalMax
 HOST-SUFFIX,spinesurgeons.ac.uk,GlobalMax
 HOST-SUFFIX,spiritclubs.com,GlobalMax
@@ -27812,6 +27821,8 @@ HOST-SUFFIX,tejaratbank.ir,GlobalMax
 HOST-SUFFIX,tel.ac.uk,GlobalMax
 HOST-SUFFIX,telebay.com,GlobalMax
 HOST-SUFFIX,telecomspace.com,GlobalMax
+HOST-SUFFIX,telega.info,GlobalMax
+HOST-SUFFIX,telega.me,GlobalMax
 HOST-SUFFIX,telega.one,GlobalMax
 HOST-SUFFIX,telegra.ph,GlobalMax
 HOST-SUFFIX,telegram-cdn.org,GlobalMax
@@ -31777,6 +31788,7 @@ HOST-SUFFIX,xn--hckl3e1e8a8ajin0czf.net,GlobalMax
 HOST-SUFFIX,xn--hhr917d3fecva.xyz,GlobalMax
 HOST-SUFFIX,xn--hxtr4rozx.xn--czr694b,GlobalMax
 HOST-SUFFIX,xn--i2ru8q2qg.com,GlobalMax
+HOST-SUFFIX,xn--kcrv3utim32hx9f6qe.com,GlobalMax
 HOST-SUFFIX,xn--kput3imi374g.xn--hxt814e,GlobalMax
 HOST-SUFFIX,xn--m1abbbgjah.lol,GlobalMax
 HOST-SUFFIX,xn--mts47c3w9b1qr.net,GlobalMax
