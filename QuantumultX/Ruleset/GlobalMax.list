@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 33221
+# 规则统计: 33220
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -24956,7 +24956,6 @@ HOST-SUFFIX,s-msn.com,GlobalMax
 HOST-SUFFIX,s-nbcnews.com,GlobalMax
 HOST-SUFFIX,s-rewards.hk,GlobalMax
 HOST-SUFFIX,s-xoom.com,GlobalMax
-HOST-SUFFIX,s.rmimg.com,GlobalMax
 HOST-SUFFIX,s.team,GlobalMax
 HOST-SUFFIX,s1heng.com,GlobalMax
 HOST-SUFFIX,s1s1s1.com,GlobalMax

@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 33221
+# 规则统计: 33220
 
 no_resolve: true
 domain_set:
@@ -24959,7 +24959,6 @@ domain_suffix_set:
   - s-nbcnews.com
   - s-rewards.hk
   - s-xoom.com
-  - s.rmimg.com
   - s.team
   - s1heng.com
   - s1s1s1.com
