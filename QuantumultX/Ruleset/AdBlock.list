@@ -1,5 +1,5 @@
 # 规则名称: AdBlock
-# 规则统计: 108218
+# 规则统计: 108217
 
 HOST-SUFFIX,0.myikas.com,AdBlock
 HOST-SUFFIX,0.net.easyjet.com,AdBlock
@@ -18250,7 +18250,6 @@ HOST-SUFFIX,cnt.hd21.com,AdBlock
 HOST-SUFFIX,cnt.iceporn.com,AdBlock
 HOST-SUFFIX,cnt.iol.it,AdBlock
 HOST-SUFFIX,cnt.logoslovo.ru,AdBlock
-HOST-SUFFIX,cnt.mail.netbk.co.jp,AdBlock
 HOST-SUFFIX,cnt.my,AdBlock
 HOST-SUFFIX,cnt.nov.ru,AdBlock
 HOST-SUFFIX,cnt.rate.ru,AdBlock
